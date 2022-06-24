@@ -16,5 +16,5 @@ console.log(arr.join(" "));
   {
     var temp= arr[i]
     arr[i]= arr[j]
-    arr[j]= temp
+    arr[j]= tem
     }
