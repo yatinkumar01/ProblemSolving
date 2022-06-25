@@ -1,3 +1,5 @@
+// Next Greater Element Using Stack
+
 let arr = [1 ,3 ,2 ,4]
 let stk = []
 let ans = []
